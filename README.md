@@ -1,1 +1,3 @@
 # Python_furigana
+[スラスラ読める-Pythonふりがなプログラミング](https://www.amazon.co.jp/%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%A9%E8%AA%AD%E3%82%81%E3%82%8B-Python%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E3%83%AA%E3%83%96%E3%83%AD%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9/dp/4295003867/ref=pd_lpo_sccl_1/356-3324975-2655427?pd_rd_w=EaRta&content-id=amzn1.sym.d769922e-188a-40cc-a180-3315f856e8d6&pf_rd_p=d769922e-188a-40cc-a180-3315f856e8d6&pf_rd_r=F4T2A8QHXQMXVDZNZQK2&pd_rd_wg=FCm3m&pd_rd_r=4c68a1f3-8ed6-4add-99df-bdd359735795&pd_rd_i=4295003867&psc=1)
+をするためのファルダ。
