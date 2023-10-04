@@ -1,0 +1,8 @@
+rfile = open('chap5/chap5_4/sample.txt', encoding='utf-8')
+text = rfile.read()
+rfile.close()
+text = text.replace('。', '~♪')
+print(text)
+wfile = open('chap5/chap5_4/output.txt', mode='w', encoding='utf-8')
+wfile.write(text)
+wfile.close()
